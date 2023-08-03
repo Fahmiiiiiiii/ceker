@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
-    <title>GHOST CHECKER</title>
+    <title>JUNED NYEKER</title>
     <link
         href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i%7CComfortaa:300,400,700"
         rel="stylesheet">
@@ -851,7 +851,11 @@
     </style>
 </head>
 
-<body class="vertical-layout" data-color="bg-gradient-x-purple-blue" style="background-color:black" onload="ccgen();"><div style='width:100%; background-color:black; text-align:center; font-size: 15px; padding: 20px; color:white; border-bottom: 2px solid red;'>TRY OUR MASS SK KEY CHECKER<a href="https://ghostchecker.site/sk_key/" ><span style='color:#ff0000;'> CLICK HERE</span></a></div>
+<body class="vertical-layout" data-color="bg-gradient-x-purple-blue" style="background-color:black" onload="ccgen();">
+    <div
+        style='width:100%; background-color:black; text-align:center; font-size: 15px; padding: 20px; color:white; border-bottom: 2px solid red;'>
+        TRY OUR SK BASED CC CHECKER<a href="https://ghostchecker.site"><span style='color:#ff0000;'> CLICK
+                HERE</span></a></div>
     <div class="app-content content">
         <div class="content-wrapper">
             <div class="content-wrapper-before mb-3">
@@ -866,18 +870,18 @@
                                 <span> </span>
                                 <span> </span>
                                 <span> </span>
-                                <h4 class="mb-2"><strong>SK Rate Limit Bypass Checker</strong></h4>
+                                <h4 class="mb-2"><strong>MASS SK KEY Checker</strong></h4>
 
                                 <textarea rows="16" id="lista" class="form-control text-center form-checker mb-2"
                                     placeholder=""></textarea>
                                 <textarea rows="1" class="form-control text-center"
-                                    style="width: 70%; float: left; resize:none; overflow:hidden;" id="sec"
-                                    placeholder="SK KEY HERE"></textarea>
+                                    style="width: 70%; float: left; resize:none; overflow:hidden; display:none;"
+                                    id="sec" placeholder="SK KEY HERE"></textarea>
                                 <textarea rows="1" class="form-control text-center"
-                                    style="width: 30%; float: right; margin-bottom: 5px; resize:none; overflow:hidden;"
-                                    id="cst" placeholder="CUSTOM"></textarea></br>
+                                    style="width: 30%;display: none;float: right;margin-bottom: 5px;resize:none display:none;overflow:hidden;"
+                                    id="cst" placeholder="CUSTOM"></textarea>
                                 <select name="gate" id="gate" class="form-control"
-                                    style="margin-bottom: 5px; text-align:center" <option </option>
+                                    style="display:none; margin-bottom: 5px; text-align:center;" <option </option>
 
                                     <option
                                         style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
@@ -886,15 +890,6 @@
                                     <option
                                         style="background:rgba(16, 15, 154, 0.281);color:rgb(255, 208, 0);color:white"
                                         value="gate/usd1CVV.php">SK CVV Charged : $1</option>
-
-                                    <!-- <option
-                                        style="background:rgba(16, 15, 154, 0.281);color:rgb(25, 208, 1);color:white"
-                                        value="gate/api1.php">API 1 : Non SK (Membership Site)</option>
-
-                                    <option
-                                        style="background:rgba(16, 15, 154, 0.281);color:rgb(25, 208, 1);color:white"
-                                        value="gate/api2.php">API 2 : Non SK (Membership Site)</option> -->
-
 
                                 </select>
                                 <br>
@@ -910,286 +905,25 @@
                     </div>
 
                     <div class="col-md-4">
-                        <div class="">
 
-                            <div class="card mb-2">
-                                <div class="card-body" style="padding:0.9rem;">
-
-                                    <div class="modal-body snipcss0-0-0-1 snipcss-YeFJl style-iP3zI" id="style-iP3zI">
-                                        <div style="position:absolute; left: 37%; top: -3%;">CC Auto Generator</div>
-                                        <form name="console" id="console" role="form" method="POST"
-                                            class="snipcss0-1-1-6">
-
-                                            <div class="snipcss0-2-6-7">
-                                                <div class="row snipcss0-3-7-8">
-                                                    <div class="col-8 col-lg-8 snipcss0-4-8-9">
-                                                        <div class="form-group snipcss0-5-9-10">
-
-                                                            <!-- <span class="badge  snipcss0-7-11-12 style-CovT9" for="inputbin" id="style-CovT9">
-																	BIN
-																</span> -->
-                                                            <center class="snipcss0-7-11-13">
-                                                                <input id="ccpN" name="ccp" maxlength="19" type="text"
-                                                                    class="form-control snipcss0-8-13-14 style-cg7tQ"
-                                                                    placeholder="45359xx">
-                                                            </center>
-                                                            </center>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="row snipcss0-3-7-21">
-                                                    <div class="col-4 col-lg-4 snipcss0-4-21-22">
-                                                        <div class="form-group snipcss0-5-22-23">
-                                                            <select type="text" name="ccoudatfmt"
-                                                                class="input_text snipcss0-6-23-24 style-OUXJB"
-                                                                id="style-OUXJB">
-                                                                <option value="CHECKER" selected="selected"
-                                                                    class="snipcss0-7-24-25">
-                                                                    CHK
-                                                                </option>
-                                                                <option value="CSV" class="snipcss0-7-24-26">
-                                                                    CSV
-                                                                </option>
-                                                                <option value="XML" class="snipcss0-7-24-27">
-                                                                    XML
-                                                                </option>
-                                                                <option value="JSON" class="snipcss0-7-24-28">
-                                                                    JSON
-                                                                </option>
-                                                            </select>
-                                                            <input type="hidden" name="tr" value="1000"
-                                                                class="snipcss0-6-23-29">
-                                                            <input type="hidden" name="L" value="1L"
-                                                                class="snipcss0-6-23-30 style-w4dtO" id="style-w4dtO">
-                                                            <div type="hidden" id="bininfo" align="center"
-                                                                class="snipcss0-6-23-31">
-                                                            </div>
-
-                                                            <!-- <span class="badge snipcss0-7-32-33 style-bBSP7" for="inputmonth" id="style-bBSP7">
-																	Month
-																</span> -->
-                                                            <center class="snipcss0-7-32-34">
-                                                                <select type="text"
-                                                                    class="form-control snipcss0-8-34-35 style-HGKtd"
-                                                                    name="emeses" id="style-HGKtd">
-                                                                    <option value="rnd"
-                                                                        class="snipcss0-9-35-36 style-wdNO2"
-                                                                        id="style-wdNO2">
-                                                                        (M) Random
-                                                                    </option>
-                                                                    <option value="01"
-                                                                        class="snipcss0-9-35-37 style-Xk2ke"
-                                                                        id="style-Xk2ke">
-                                                                        01
-                                                                    </option>
-                                                                    <option value="02"
-                                                                        class="snipcss0-9-35-38 style-98N3D"
-                                                                        id="style-98N3D">
-                                                                        02
-                                                                    </option>
-                                                                    <option value="03"
-                                                                        class="snipcss0-9-35-39 style-xWlrZ"
-                                                                        id="style-xWlrZ">
-                                                                        03
-                                                                    </option>
-                                                                    <option value="04"
-                                                                        class="snipcss0-9-35-40 style-QN1oj"
-                                                                        id="style-QN1oj">
-                                                                        04
-                                                                    </option>
-                                                                    <option value="05"
-                                                                        class="snipcss0-9-35-41 style-xMoWL"
-                                                                        id="style-xMoWL">
-                                                                        05
-                                                                    </option>
-                                                                    <option value="06"
-                                                                        class="snipcss0-9-35-42 style-t9tJi"
-                                                                        id="style-t9tJi">
-                                                                        06
-                                                                    </option>
-                                                                    <option value="07"
-                                                                        class="snipcss0-9-35-43 style-wUPSk"
-                                                                        id="style-wUPSk">
-                                                                        07
-                                                                    </option>
-                                                                    <option value="08"
-                                                                        class="snipcss0-9-35-44 style-vqlXX"
-                                                                        id="style-vqlXX">
-                                                                        08
-                                                                    </option>
-                                                                    <option value="09"
-                                                                        class="snipcss0-9-35-45 style-YG9S8"
-                                                                        id="style-YG9S8">
-                                                                        09
-                                                                    </option>
-                                                                    <option value="10"
-                                                                        class="snipcss0-9-35-46 style-fEcTq"
-                                                                        id="style-fEcTq">
-                                                                        10
-                                                                    </option>
-                                                                    <option value="11"
-                                                                        class="snipcss0-9-35-47 style-1WIIz"
-                                                                        id="style-1WIIz">
-                                                                        11
-                                                                    </option>
-                                                                    <option value="12"
-                                                                        class="snipcss0-9-35-48 style-4kErL"
-                                                                        id="style-4kErL">
-                                                                        12
-                                                                    </option>
-                                                                </select>
-                                                            </center>
-                                                            </center>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-4 col-lg-4 snipcss0-4-21-49">
-                                                        <div class="form-group snipcss0-5-49-50">
-
-                                                            <!-- <span class="badge snipcss0-7-51-52 style-ReQ2v" for="inputyear" id="style-ReQ2v">
-																	Year
-																</span> -->
-                                                            <center class="snipcss0-7-51-53">
-                                                                <select type="text"
-                                                                    class="form-control snipcss0-8-53-54 style-5ZMfy"
-                                                                    name="eyear" id="style-5ZMfy">
-                                                                    <option value="rnd"
-                                                                        class="snipcss0-9-54-55 style-JrFYH"
-                                                                        id="style-JrFYH">
-                                                                        (Y) Random
-                                                                    </option>
-                                                                    <option value="2023"
-                                                                        class="snipcss0-9-54-56 style-mUbvl"
-                                                                        id="style-mUbvl">
-                                                                        2023
-                                                                    </option>
-                                                                    <option value="2024"
-                                                                        class="snipcss0-9-54-57 style-gRkEL"
-                                                                        id="style-gRkEL">
-                                                                        2024
-                                                                    </option>
-                                                                    <option value="2025"
-                                                                        class="snipcss0-9-54-58 style-EDrPd"
-                                                                        id="style-EDrPd">
-                                                                        2025
-                                                                    </option>
-                                                                    <option value="2026"
-                                                                        class="snipcss0-9-54-59 style-gj8Ky"
-                                                                        id="style-gj8Ky">
-                                                                        2026
-                                                                    </option>
-                                                                    <option value="2027"
-                                                                        class="snipcss0-9-54-60 style-izG2P"
-                                                                        id="style-izG2P">
-                                                                        2027
-                                                                    </option>
-                                                                    <option value="2028"
-                                                                        class="snipcss0-9-54-61 style-oycYO"
-                                                                        id="style-oycYO">
-                                                                        2028
-                                                                    </option>
-                                                                    <option value="2029"
-                                                                        class="snipcss0-9-54-62 style-8Box3"
-                                                                        id="style-8Box3">
-                                                                        2029
-                                                                    </option>
-                                                                    <option value="2030"
-                                                                        class="snipcss0-9-54-63 style-izyiC"
-                                                                        id="style-izyiC">
-                                                                        2030
-                                                                    </option>
-                                                                    <option value="2031"
-                                                                        class="snipcss0-9-54-64 style-AGscl"
-                                                                        id="style-AGscl">
-                                                                        2031
-                                                                    </option>
-                                                                    <option value="2032"
-                                                                        class="snipcss0-9-54-65 style-O9c6j"
-                                                                        id="style-O9c6j">
-                                                                        2023
-                                                                    </option>
-                                                                    <option value="2034"
-                                                                        class="snipcss0-9-54-66 style-2YxhS"
-                                                                        id="style-2YxhS">
-                                                                        2034
-                                                                    </option>
-                                                                </select>
-                                                            </center>
-                                                            </center>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-4 col-lg-4 snipcss0-4-8-15">
-                                                        <div class="form-group snipcss0-5-15-16">
-
-                                                            <!-- <span class="badge snipcss0-7-17-18 style-kIavL" for="inputcvv" id="style-kIavL">
-																	CVV
-																</span> -->
-                                                            <center class="snipcss0-7-17-19">
-                                                                <input type="text" id="eccv" name="eccv"
-                                                                    style="border-color: #35c0dc;background: transparent;color: #FFFFFF"
-                                                                    class="form-control" placeholder="rnd" value="rnd">
-                                                            </center>
-                                                            </center>
-                                                        </div>
-                                                    </div>
-
-                                                    <div class="col-4 col-lg-4 snipcss0-4-21-67">
-                                                        <div class="form-group snipcss0-5-67-68">
-
-                                                            <!-- <span class="badge snipcss0-7-69-70 style-esynw" for="inputquantity" id="style-esynw">
-																	Quantity
-																</span> -->
-                                                            <center class="snipcss0-7-69-71">
-                                                                <input type="number" name="ccghm" maxlength="4"
-                                                                    class="form-control snipcss0-8-71-72 style-HH1RW"
-                                                                    value="100" id="style-HH1RW">
-                                                                <select type="text" name="ccnsp"
-                                                                    class="input_text snipcss0-8-71-73 style-XIwT2"
-                                                                    id="style-XIwT2">
-                                                                    <option selected="selected"
-                                                                        class="snipcss0-9-73-74">
-                                                                        None
-                                                                    </option>
-                                                                </select>
-                                                            </center>
-                                                            </center>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="row snipcss0-3-7-75">
-                                                    <button type="button"
-                                                        class="btn btn-outline-light block shadow-none snipcss0-4-75-76 style-eVS8h"
-                                                        name="gerar" id="gerar" data-dismiss="modal"
-                                                        onclick="playClick();">
-                                                        GENERATE
-                                                    </button>
-                                                </div>
-                                                <div class="row snipcss0-3-7-77">
-                                                </div>
-                                            </div>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
                         <div class="card mb-2">
                             <div class="card-body">
 
-                                <h5 style="margin-bottom:-0.2rem">‎TOTAL :<span
+                                <h5 style="margin-bottom:-0.2rem"> TOTAL :<span
                                         class="badge badge-dark float-right carregadas">0</span></h5>
                                 <hr>
 
-                                <h5 style="margin-bottom:-0.2rem"> CHARGED :<span
+                                <h5 style="margin-bottom:-0.2rem"> LIVE :<span
                                         class="badge badge-success float-right charge">0</span></h5>
                                 <hr>
 
-                                <h5 style="margin-bottom:-0.2rem"> ‎ CVV :<span
+                                <h5 style="margin-bottom:-0.2rem"> RATE LIMITED :<span
                                         class="badge badge-info float-right cvvs">0</span></h5>
                                 <hr>
-
+                                <!-- 
                                 <h5 style="margin-bottom:-0.2rem"> CCN :<span
                                         class="badge badge-primary float-right aprovadas">0</span></h5>
-                                <hr>
+                                <hr> -->
 
                                 <h5 style="margin-bottom:-0.2rem"> DEAD :<span
                                         class="badge badge-danger float-right reprovadas">0</span></h5>
@@ -1211,9 +945,10 @@
 
                                 <center>
 
-                                    <h4 class="card-title mb-1" style='text-align:left;'><i class="fa fa-check-circle text-success"></i> CHARGED
+                                    <h4 class="card-title mb-1" style='text-align:left;'><i
+                                            class="fa fa-check-circle text-success"></i> LIVE
                                     </h4>
-                                    <div id='lista_charge'  style='text-align:left;'></div>
+                                    <div id='lista_charge' style='text-align:left;'></div>
                             </div>
                         </div>
                     </div>
@@ -1228,24 +963,9 @@
 
                                 <center>
 
-                                    <h4 class="card-title mb-1" style='text-align:left;'><i class="fa fa-check text-success"></i> CVV</h4>
-                                    <div id='lista_cvvs'  style='text-align:left;'></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-12">
-                        <div class="card">
-                            <div class="card-body">
-                                <div class="float-right">
-                                    <button type="show" class="btn btn-primary btn-sm show-lives"><i
-                                            class="fa fa-eye-slash"></i></button>
-                                    <button class="btn btn-success btn-sm btn-copy"><i class="fa fa-copy"></i></button>
-                                </div>
-
-                                <center>
-
-                                    <h4 class="card-title mb-1" style='text-align:left;'><i class="fa fa-times text-success"></i> CCN</h4>
-                                    <div id='lista_aprovadas'  style='text-align:left;'></div>
+                                    <h4 class="card-title mb-1" style='text-align:left;'><i
+                                            class="fa fa-check text-success"></i> RATE LIMITED</h4>
+                                    <div id='lista_cvvs' style='text-align:left;'></div>
                             </div>
                         </div>
                     </div>
@@ -1260,7 +980,8 @@
 
                                 <center>
 
-                                    <h4 class="card-title mb-1" style='text-align:left;'><i class="fa fa-times text-danger"></i> DECLINED</h4>
+                                    <h4 class="card-title mb-1" style='text-align:left;'><i
+                                            class="fa fa-times text-danger"></i> DECLINED</h4>
                                     <div style='text-align:left;' id='lista_reprovadas'></div>
                             </div>
                         </div>
@@ -1360,7 +1081,7 @@
 
             $('.btn-copy1').click(function() {
                 Swal.fire({
-                    title: 'COPIED CHARGED',
+                    title: 'COPIED LIVE',
                     icon: 'success',
                     showConfirmButton: false,
                     toast: true,
@@ -1378,7 +1099,7 @@
 
             $('.btn-copy2').click(function() {
                 Swal.fire({
-                    title: 'COPIED CVV',
+                    title: 'COPIED RATE LIMITED',
                     icon: 'success',
                     showConfirmButton: false,
                     toast: true,
@@ -1429,7 +1150,7 @@
 
                 if (!lista) {
                     Swal.fire({
-                        title: 'You did not provide a card :(',
+                        title: 'You did not provide a SK :(',
                         icon: 'error',
                         showConfirmButton: false,
                         toast: true,
@@ -1440,7 +1161,7 @@
                 }
 
                 Swal.fire({
-                    title: 'Your cards are being checked...',
+                    title: 'Your SK are being checked...',
                     icon: 'success',
                     showConfirmButton: false,
                     toast: true,
@@ -1472,9 +1193,9 @@
 
                 $('.form-checker').val(txt.trim());
                 // ảo ma hả, đừng lấy code chứ !!
-                if (total > 5000) {
+                if (total > 10000) {
                     Swal.fire({
-                        title: 'Do You Want Checker to Die? Reduce Card To < 5000',
+                        title: 'Do You Want Checker to Die? Reduce SK To < 10000',
                         icon: 'warning',
                         showConfirmButton: false,
                         toast: true,
@@ -1490,22 +1211,19 @@
 
                 line.forEach(function(data) {
                     var callBack = $.ajax({
-                        url: gate + '?lista=' + data + '&sec=' + sec + '&cst=' + cst,
+                        url: 'api.php?sk=' + data,
                         success: function(retorno) {
-                            if (retorno.indexOf("CHARGED") >= 0) {
+                            if (retorno.indexOf("Live") >= 0) {
                                 $('#lista_charge').append(retorno);
                                 removelinha();
                                 charge = charge + 1;
-                            } else if (retorno.indexOf("CVV") >= 0) {
+                            } else if (retorno.indexOf("Rate Limited") >= 0) {
                                 $('#lista_cvvs').append(retorno);
                                 removelinha();
                                 live = live + 1;
-                            } else if (retorno.indexOf("CCN") >= 0) {
-                                $('#lista_aprovadas').append(retorno);
-                                removelinha();
-                                lives = lives + 1;
                             } else {
                                 $('#lista_reprovadas').append(retorno);
+                                console.log('here');
                                 removelinha();
                                 dies = dies + 1;
                             }
@@ -1518,7 +1236,7 @@
 
                             if (testadas == total) {
                                 Swal.fire({
-                                    title: 'ALL CARDS HAS BEEN CHECKED',
+                                    title: 'ALL SK HAS BEEN CHECKED',
                                     icon: 'success',
                                     showConfirmButton: false,
                                     toast: true,
