@@ -851,7 +851,7 @@
     </style>
 </head>
 
-<body class="vertical-layout" data-color="bg-gradient-x-purple-blue" style="background-color:black" onload="ccgen();"><div style='width:100%; background-color:black; text-align:center; font-size: 15px; padding: 20px; color:white; border-bottom: 2px solid red;'>TRY OUR MASS SK KEY CHECKER<a href="https://ghostchecker.site/sk_key/" ><span style='color:#ff0000;'> CLICK HERE</span></a></div>
+<body class="vertical-layout" data-color="bg-gradient-x-purple-blue" style="background-color:black" onload="ccgen();"><div style='width:100%; background-color:black; text-align:center; font-size: 15px; padding: 20px; color:white; border-bottom: 2px solid red;'>TRY OUR MASS SK KEY CHECKER<a href="https://ceker-production.up.railway.app/sk_key/" ><span style='color:#ff0000;'> CLICK HERE</span></a></div>
     <div class="app-content content">
         <div class="content-wrapper">
             <div class="content-wrapper-before mb-3">
